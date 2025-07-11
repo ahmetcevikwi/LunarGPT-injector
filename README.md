@@ -20,3 +20,6 @@ You are welcome to modify or improve the project for your own needs or contribut
 ❗ Legal Notice:
 This project must not be used for any commercial or illegal purposes.
 The author cannot be held responsible for any misuse of the project.
+
+
+
